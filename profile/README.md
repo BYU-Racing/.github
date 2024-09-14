@@ -3,9 +3,6 @@
 ![Fast car go brrrrrrrrrrrrrrrrrrrrr](https://brightspotcdn.byu.edu/dims4/default/3a521e5/2147483647/strip/true/crop/8192x5464+0+0/resize/1920x1281!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fd2%2F9b%2F589545a645d482fe5828e24c88e3%2F2408-31-702.jpg)
 BYU Racing Team Repository
 
->“Speed has never killed anyone. Suddenly becoming stationary, that’s what gets you.”
-*Jeremy Clarkson*
-
 ## Our Goals
 
 - Build a car that runs and won't break
